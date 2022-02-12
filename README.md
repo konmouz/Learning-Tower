@@ -1,6 +1,8 @@
 # Learning tower v1
 Learning tower for kids made of an IKEA step stool, aluminium extrusions and 3d printing
 
+<iframe src="https://balena.autodesk360.com/shares/public/SH35dfcQT936092f0e434a61b86c1d9a2901?mode=embed" width="800" height="600" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
+
 ## Preparation
 
 ### Ordering components - BoM
@@ -60,7 +62,7 @@ Lay down all the extrusions by length, this will make assembly way easier
   <img src="./output/images/LT002.jpg" width="400">
 </p>
 
-## Tools
+### Tools
 | Name | Photo |
 |-|-|
 | Phillips screwdriver | <img src="./output/images/screwdriver.jpg" width="250"> |
