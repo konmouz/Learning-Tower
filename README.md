@@ -93,6 +93,18 @@ Notes
 <p align="center">
   <img src="./output/images/LT010.jpg" width="400">
 </p>
+<p align="center">
+  <img src="./output/images/orthographic01.jpg" width="400">
+</p>
+<p align="center">
+  <img src="./output/images/orthographic01.jpg" width="300">
+</p>
+<p align="center">
+  <img src="./output/images/orthographic01.jpg" width="200">
+</p>
+<p align="center">
+  <img src="./output/images/orthographic01.jpg" width="100">
+</p>
 
 #### 4. Insert an `L 430mm` extrusion to one of the `Adapters` at the back, make sure it is fully inserted
 <p align="center">
