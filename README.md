@@ -60,13 +60,13 @@ Notes
 ### Smoothing edges
 
 <p align="center">
-  <img src="./output/images/LT001.jpg" width="600">
+  <img src="./output/images/LT001.jpg" width="400">
 </p>
 
 ### Aluminum extrusions by length (L)
 
 <p align="center">
-  <img src="./output/images/LT002.jpg" width="600">
+  <img src="./output/images/LT002.jpg" width="400">
 </p>
 
 ## Assembly
@@ -75,133 +75,133 @@ Notes
 
 #### 2. Remove the 4 screws of the step stool that are located near the top
 <p align="center">
-  <img src="./output/images/LT007.jpg" width="600">
+  <img src="./output/images/LT007.jpg" width="400">
 </p>
 
 #### 3. Use the screws you removed to secure the `Adapters` in place, make sure the `Adapters` are installed in the correct location
 - Every adapter has a letter combination marking (F for front, B for back, R for right, L for Left)
 - Do not fully tighten the screws
 <p align="center">
-  <img src="./output/images/F-L-2.png" width="600">
+  <img src="./output/images/F-L-2.png" width="400">
 </p>
 <p align="center">
-  <img src="./output/images/LT008.jpg" width="600">
+  <img src="./output/images/LT008.jpg" width="400">
 </p>
 <p align="center">
-  <img src="./output/images/LT009.jpg" width="600">
+  <img src="./output/images/LT009.jpg" width="400">
 </p>
 <p align="center">
-  <img src="./output/images/LT010.jpg" width="600">
+  <img src="./output/images/LT010.jpg" width="400">
 </p>
 
 #### 4. Insert an `L 430mm` extrusion to one of the `Adapters` at the back, make sure it is fully inserted
 <p align="center">
-  <img src="./output/images/LT011.jpg" width="600">
+  <img src="./output/images/LT011.jpg" width="400">
 </p>
 
 #### 5. Insert another `L 430mm` extrusion to the opposite `Adapter` at the back, make sure it is fully inserted
 <p align="center">
-  <img src="./output/images/LT012.jpg" width="600">
+  <img src="./output/images/LT012.jpg" width="400">
 </p>
 
 #### 6. Insert two corner connectors to the extrusions you just installed
 - The corner connectors should point towards the front side
 <p align="center">
-  <img src="./output/images/LT013.jpg" width="600">
+  <img src="./output/images/LT013.jpg" width="400">
 </p>
 
 #### 7. Insert an `L 363mm` extrusion using two corner connectors
 - Push the extrusion all the way downwards but don't tighten the connector yet
 <p align="center">
-  <img src="./output/images/LT014.jpg" width="600">
+  <img src="./output/images/LT014.jpg" width="400">
 </p>
 
 #### 8. Insert an `End Cap` to one end of an `L 397mm` extrusion and press it all the way in
 - You might need to hammer it lightly
 <p align="center">
-  <img src="./output/images/LT003.jpg" width="600">
+  <img src="./output/images/LT003.jpg" width="400">
 </p>
 
 #### 9. On the other end of the same extrusion, insert 4 corner connector as in the picture below and then insert an `End Cap` to lock that end
 - Pay close attention to the direction and location of each corner connector
 <p align="center">
-  <img src="./output/images/LT005.jpg" width="600">
+  <img src="./output/images/LT005.jpg" width="400">
 </p>
 
 #### 10. Repeat the previous two steps with the other `L 397mm` extrusion, this time insert only 2 corner connector as in the picture below
 <p align="center">
-  <img src="./output/images/LT006.jpg" width="600">
+  <img src="./output/images/LT006.jpg" width="400">
 </p>
 
 #### 11. Insert the `L 397mm` extrusion with the 4 corner connectors
 - Pay close attention to the direction of each corner connector
 <p align="center">
-  <img src="./output/images/LT015.jpg" width="600">
+  <img src="./output/images/LT015.jpg" width="400">
 </p>
 
 #### 12. Use the `Assembly Jig` to align the extrusions and tighten the corner connector
 - Spend some time to fasten the connector gradually, this will give you a better alignment
 <p align="center">
-  <img src="./output/images/LT016.jpg" width="600">
+  <img src="./output/images/LT016.jpg" width="400">
 </p>
 
 #### 13. Repeat the previous step for the opposite corner
 
 #### 14. Using the tape measure, put a pencil mark at around 20cm from the top extrusion, do this on both sides
 <p align="center">
-  <img src="./output/images/LT017.jpg" width="600">
+  <img src="./output/images/LT017.jpg" width="400">
 </p>
 
 #### 15. Lift the `L 363mm` extrusion and align it with the pencil mark, use the `Jig` to align the extrusions and tighten the corner connector
 <p align="center">
-  <img src="./output/images/LT018.jpg" width="600">
+  <img src="./output/images/LT018.jpg" width="400">
 </p>
 
 #### 16. Insert the two remaining `L 430mm extrusions` to the Adapters at the front
 <p align="center">
-  <img src="./output/images/LT019.jpg" width="600">
+  <img src="./output/images/LT019.jpg" width="400">
 </p>
 
 <p align="center">
-  <img src="./output/images/LT020.jpg" width="600">
+  <img src="./output/images/LT020.jpg" width="400">
 </p>
 
 <p align="center">
-  <img src="./output/images/LT021.jpg" width="600">
+  <img src="./output/images/LT021.jpg" width="400">
 </p>
 
 <p align="center">
-  <img src="./output/images/LT022.jpg" width="600">
+  <img src="./output/images/LT022.jpg" width="400">
 </p>
 
 <p align="center">
-  <img src="./output/images/LT023.jpg" width="600">
+  <img src="./output/images/LT023.jpg" width="400">
 </p>
 
 <p align="center">
-  <img src="./output/images/LT024.jpg" width="600">
+  <img src="./output/images/LT024.jpg" width="400">
 </p>
 
 <p align="center">
-  <img src="./output/images/LT025.jpg" width="600">
+  <img src="./output/images/LT025.jpg" width="400">
 </p>
 
 <p align="center">
-  <img src="./output/images/LT026.jpg" width="600">
+  <img src="./output/images/LT026.jpg" width="400">
 </p>
 
 <p align="center">
-  <img src="./output/images/LT027.jpg" width="600">
+  <img src="./output/images/LT027.jpg" width="400">
 </p>
 
 <p align="center">
-  <img src="./output/images/LT028.jpg" width="600">
+  <img src="./output/images/LT028.jpg" width="400">
 </p>
 
 <p align="center">
-  <img src="./output/images/LT029.jpg" width="600">
+  <img src="./output/images/LT029.jpg" width="400">
 </p>
 
 <p align="center">
-  <img src="./output/images/LT030.jpg" width="600">
+  <img src="./output/images/LT030.jpg" width="400">
 </p>
