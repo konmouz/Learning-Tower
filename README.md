@@ -26,9 +26,9 @@ Learning tower for kids made of an IKEA step stool, aluminium extrusions and 3d 
 | Allen key 2.5mm | <img src="./output/images/allen-set.jpg" width="250"> |
 | Allen key 4mm | <img src="./output/images/allen-set.jpg" width="250"> |
 | Tape measure | <img src="./output/images/tape-measure.jpg" width="250"> |
-| Pensil | <img src="./output/images/pencil.jpg" width="250"> |
+| Pencil | <img src="./output/images/pencil.jpg" width="250"> |
 
-## Preparing
+## Preparation
 
 ### Ordering components
 
@@ -78,8 +78,8 @@ Notes
   <img src="./output/images/LT007.jpg" width="600">
 </p>
 
-#### 3. Use the screws you removed to secure the Adapters in place, make sure the Adapters are installed in the correct location
-- Every adapter has a letter combination barking (F for front, B for back, R for right, L for Left)
+#### 3. Use the screws you removed to secure the `Adapters` in place, make sure the `Adapters` are installed in the correct location
+- Every adapter has a letter combination marking (F for front, B for back, R for right, L for Left)
 - Do not fully tighten the screws
 <p align="center">
   <img src="./output/images/F-L-2.png" width="600">
@@ -94,12 +94,12 @@ Notes
   <img src="./output/images/LT010.jpg" width="600">
 </p>
 
-#### 4. Insert an L 430mm extrusion to one of the Adapters at the back, make sure it is fully inserted
+#### 4. Insert an `L 430mm` extrusion to one of the `Adapters` at the back, make sure it is fully inserted
 <p align="center">
   <img src="./output/images/LT011.jpg" width="600">
 </p>
 
-#### 5. Insert another L 430mm extrusion to the opposite Adapter at the back, make sure it is fully inserted
+#### 5. Insert another `L 430mm` extrusion to the opposite `Adapter` at the back, make sure it is fully inserted
 <p align="center">
   <img src="./output/images/LT012.jpg" width="600">
 </p>
@@ -110,57 +110,58 @@ Notes
   <img src="./output/images/LT013.jpg" width="600">
 </p>
 
-#### 7. Insert an L 363mm extrusion using two corner connectors
-- Push the extrusion all the way towards the adapters but don't tighten it yet
+#### 7. Insert an `L 363mm` extrusion using two corner connectors
+- Push the extrusion all the way downwards but don't tighten the connector yet
 <p align="center">
   <img src="./output/images/LT014.jpg" width="600">
 </p>
 
-#### 8. Insert an End Cap to one end of an L 397mm extrusion and press it all the way in
+#### 8. Insert an `End Cap` to one end of an `L 397mm` extrusion and press it all the way in
 - You might need to hammer it lightly
 <p align="center">
   <img src="./output/images/LT003.jpg" width="600">
 </p>
 
-#### 9. On the other end of the same extrusion, insert 4 corner connector as in the picture below and then insert an End Cap to lock that end
+#### 9. On the other end of the same extrusion, insert 4 corner connector as in the picture below and then insert an `End Cap` to lock that end
 - Pay close attention to the direction and location of each corner connector
 <p align="center">
   <img src="./output/images/LT005.jpg" width="600">
 </p>
 
-#### 10. Repeat the previous two steps with the other L 397mm extrusion, this time insert only 2 corner connector as in the picture below
+#### 10. Repeat the previous two steps with the other `L 397mm` extrusion, this time insert only 2 corner connector as in the picture below
 <p align="center">
   <img src="./output/images/LT006.jpg" width="600">
 </p>
 
-#### 11. Insert the L 397mm extrusion with the 4 corner connectors
+#### 11. Insert the `L 397mm` extrusion with the 4 corner connectors
 - Pay close attention to the direction of each corner connector
 <p align="center">
   <img src="./output/images/LT015.jpg" width="600">
 </p>
 
-#### 12. Use the Assembly Jig to align the extrusions and tighten the corner connector
+#### 12. Use the `Assembly Jig` to align the extrusions and tighten the corner connector
 - Spend some time to fasten the connector gradually, this will give you a better alignment
 <p align="center">
   <img src="./output/images/LT016.jpg" width="600">
 </p>
 
 #### 13. Repeat the previous step for the opposite corner
+
+#### 14. Using the tape measure, put a pencil mark at around 20cm from the top extrusion, do this on both sides
 <p align="center">
   <img src="./output/images/LT017.jpg" width="600">
 </p>
 
-#### 14. Using the tape measure, put a pencil mark at around 20cm from the top extrusion, do this on both sides
+#### 15. Lift the `L 363mm` extrusion and align it with the pencil mark, use the `Jig` to align the extrusions and tighten the corner connector
 <p align="center">
   <img src="./output/images/LT018.jpg" width="600">
 </p>
 
-#### 15. Lift the L 363mm extrusion and align it with the pencil mark, use the Jig to align the extrusions and tighten the corner connector
+#### 16. Insert the two remaining `L 430mm extrusions` to the Adapters at the front
 <p align="center">
   <img src="./output/images/LT019.jpg" width="600">
 </p>
 
-#### 16. Insert the two remaining L 430mm extrusions to the Adapters at the front
 <p align="center">
   <img src="./output/images/LT020.jpg" width="600">
 </p>
