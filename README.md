@@ -34,6 +34,29 @@ Learning tower for kids made of an IKEA step stool, aluminium extrusions and 3d 
 
 ### 1.2 3D printing
 
+You need to print (or order [online](https://www.hubs.com/)) the following parts:
+
+- 4x [End Cap](./output/STL/End-Cap.stl)
+- 1x [Adapter F-L](./output/STL/Adapter-F-L.stl)
+- 1x [Adapter B-L](./output/STL/Adapter-B-L.stl)
+- 1x [Adapter F-R](./output/STL/Adapter-F-R.stl)
+- 1x [Adapter B-R](./output/STL/Adapter-B-R.stl)
+- 1x [Assembly Jig](./output/STL/Assembly-Jig.stl)
+
+Printing settings
+
+- Infill: 70%
+- Wall thickness/ Perimeters: 4
+- Top and bottom layers: 6
+- Material: PLA is ok but you could use more advanced materials like PETG
+- Support: Support is not required apart from the Assembly Jig
+
+Notes
+
+- For safety reasons, I cranked the printing values up to make sure I get parts that can withstand stress
+- It's a good idea to print a sample Adapter and test how strong it is. The Adapters support the whole structure so not having reliable parts defeats the purpose of the project.
+
+
 ### 1.3 Smooth edges
 
 <p align="center">
