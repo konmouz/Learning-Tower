@@ -1,7 +1,7 @@
 # Learning tower v1
 Learning tower for kids made of an IKEA step stool, aluminium extrusions and 3d printing
 
-<iframe src="https://balena.autodesk360.com/shares/public/SH35dfcQT936092f0e434a61b86c1d9a2901?mode=embed" width="800" height="600" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
+<iframe src="https://balena.autodesk360.com/shares/public/SH35dfcQT936092f0e434a61b86c1d9a2901?mode=embed" style="width:800px; height:600px;"></iframe>
 
 ## Preparation
 
