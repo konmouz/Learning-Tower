@@ -122,7 +122,7 @@ Notes
   <img src="./output/images/LT003.jpg" width="600">
 </p>
 
-#### 8. On the other end of the same extrusion, insert 4 corner connector as in the picture below and then insert an End Cap to lock that end
+#### 9. On the other end of the same extrusion, insert 4 corner connector as in the picture below and then insert an End Cap to lock that end
 - Pay close attention to the direction and location of each corner connector
 <p align="center">
   <img src="./output/images/LT005.jpg" width="600">
