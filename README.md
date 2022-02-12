@@ -189,9 +189,21 @@ Notes
 <p align="center">
   <img src="./output/images/LT020.jpg" width="400">
 </p>
+<p align="center">
+  <img src="./output/images/orthographic09.jpg" width="200">
+</p>
+<p align="center">
+  <img src="./output/images/orthographic10.jpg" width="200">
+</p>
 
 <p align="center">
   <img src="./output/images/LT021.jpg" width="400">
+</p>
+<p align="center">
+  <img src="./output/images/orthographic11.jpg" width="200">
+</p>
+<p align="center">
+  <img src="./output/images/orthographic12.jpg" width="200">
 </p>
 
 <p align="center">
@@ -205,6 +217,12 @@ Notes
 <p align="center">
   <img src="./output/images/LT024.jpg" width="400">
 </p>
+<p align="center">
+  <img src="./output/images/orthographic13.jpg" width="200">
+</p>
+<p align="center">
+  <img src="./output/images/orthographic14.jpg" width="200">
+</p>
 
 <p align="center">
   <img src="./output/images/LT025.jpg" width="400">
@@ -216,6 +234,9 @@ Notes
 
 <p align="center">
   <img src="./output/images/LT027.jpg" width="400">
+</p>
+<p align="center">
+  <img src="./output/images/orthographic15.jpg" width="200">
 </p>
 
 <p align="center">
