@@ -94,26 +94,23 @@ Notes
   <img src="./output/images/LT010.jpg" width="400">
 </p>
 <p align="center">
-  <img src="./output/images/orthographic01.jpg" width="400">
-</p>
-<p align="center">
-  <img src="./output/images/orthographic01.jpg" width="300">
-</p>
-<p align="center">
   <img src="./output/images/orthographic01.jpg" width="200">
-</p>
-<p align="center">
-  <img src="./output/images/orthographic01.jpg" width="100">
 </p>
 
 #### 4. Insert an `L 430mm` extrusion to one of the `Adapters` at the back, make sure it is fully inserted
 <p align="center">
   <img src="./output/images/LT011.jpg" width="400">
 </p>
+<p align="center">
+  <img src="./output/images/orthographic02.jpg" width="200">
+</p>
 
 #### 5. Insert another `L 430mm` extrusion to the opposite `Adapter` at the back, make sure it is fully inserted
 <p align="center">
   <img src="./output/images/LT012.jpg" width="400">
+</p>
+<p align="center">
+  <img src="./output/images/orthographic03.jpg" width="200">
 </p>
 
 #### 6. Insert two corner connectors to the extrusions you just installed
@@ -126,6 +123,9 @@ Notes
 - Push the extrusion all the way downwards but don't tighten the connector yet
 <p align="center">
   <img src="./output/images/LT014.jpg" width="400">
+</p>
+<p align="center">
+  <img src="./output/images/orthographic04.jpg" width="200">
 </p>
 
 #### 8. Insert an `End Cap` to one end of an `L 397mm` extrusion and press it all the way in
@@ -150,6 +150,9 @@ Notes
 <p align="center">
   <img src="./output/images/LT015.jpg" width="400">
 </p>
+<p align="center">
+  <img src="./output/images/orthographic05.jpg" width="200">
+</p>
 
 #### 12. Use the `Assembly Jig` to align the extrusions and tighten the corner connector
 - Spend some time to fasten the connector gradually, this will give you a better alignment
@@ -168,10 +171,19 @@ Notes
 <p align="center">
   <img src="./output/images/LT018.jpg" width="400">
 </p>
+<p align="center">
+  <img src="./output/images/orthographic06.jpg" width="200">
+</p>
 
 #### 16. Insert the two remaining `L 430mm extrusions` to the Adapters at the front
 <p align="center">
   <img src="./output/images/LT019.jpg" width="400">
+</p>
+<p align="center">
+  <img src="./output/images/orthographic07.jpg" width="200">
+</p>
+<p align="center">
+  <img src="./output/images/orthographic08.jpg" width="200">
 </p>
 
 <p align="center">
