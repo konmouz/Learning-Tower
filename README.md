@@ -19,8 +19,8 @@ I have included an example online source for every part but based on your locati
 | [Aluminium extrusion - 20x20 x L **363** mm](https://www.framingtech.com/20-x-20-20x203m) | 1 | <img src="./output/images/2020.jpg" width="250"> |
 | [Aluminium extrusion - 20x20 x L **242** mm](https://www.framingtech.com/20-x-20-20x203m) | 2 | <img src="./output/images/2020.jpg" width="250"> |
 | [Aluminium extrusion - 20x20 x L **202** mm](https://www.framingtech.com/20-x-20-20x203m) | 2 | <img src="./output/images/2020.jpg" width="250"> |
-| [Inside corner connector 2020](https://www.amazon.com/uxcell-Interior-Connector-Aluminum-Extrusion/dp/B07VP59DY5/ref=psdc_16412271_t2_B071LPFZM2) | 16 | <img src="./output/images/corner-connector.jpg" width="250"> |
-| [countersunk wood screw - 5x60cm](https://www.amazon.com/Phillips-Drilling-Stainless-Drywall-Screws/dp/B07M7S6N4V/ref=sr_1_4?crid=2J7ESKXZ3AXOZ&keywords=wood%2Bscrew%2B5x60&qid=1644572210&sprefix=wood%2Bscrew%2B5x6%2Caps%2C168&sr=8-4&th=1) | 4 | <img src="./output/images/screw.jpg" width="250"> |
+| [Inside corner connector 2020](https://www.amazon.com/uxcell-Interior-Connector-Aluminum-Extrusion/dp/B07VP59DY5/ref=psdc_16412271_t2_B071LPFZM2) | 14 | <img src="./output/images/corner-connector.jpg" width="250"> |
+| [countersunk wood screw - 5x60cm (or longer)](https://www.amazon.com/Phillips-Drilling-Stainless-Drywall-Screws/dp/B07M7S6N4V/ref=sr_1_4?crid=2J7ESKXZ3AXOZ&keywords=wood%2Bscrew%2B5x60&qid=1644572210&sprefix=wood%2Bscrew%2B5x6%2Caps%2C168&sr=8-4&th=1) | 4 | <img src="./output/images/screw.jpg" width="250"> |
 
 
 ### 3D printing
@@ -179,7 +179,7 @@ Lay down all the extrusions by length, this will make assembly way easier
   <img src="./output/images/orthographic06.jpg" width="200">
 </p>
 
-#### 16. Insert the two remaining `L 430mm extrusions` to the Adapters at the front
+#### 16. Insert the two remaining `L 430mm` extrusions to the Adapters at the front
 <p align="center">
   <img src="./output/images/LT019.jpg" width="400">
 </p>
@@ -190,34 +190,44 @@ Lay down all the extrusions by length, this will make assembly way easier
   <img src="./output/images/orthographic08.jpg" width="200">
 </p>
 
+#### 17. Insert an `L 202mm` extrusion on one of the stool sides. You need to use the corner connector you inserted earlier on the `L 430mm` extrusion, plus a new one on the other side. Do not tighten the connectors yet.
 <p align="center">
   <img src="./output/images/LT020.jpg" width="400">
 </p>
 <p align="center">
   <img src="./output/images/orthographic09.jpg" width="200">
 </p>
+
+#### 18. Repeat the previous step on the opposite side with the remaining `L 202mm` extrusion
 <p align="center">
   <img src="./output/images/orthographic10.jpg" width="200">
 </p>
 
+#### 19. Insert an `L 242mm` extrusion on one of the stool sides. You need to use the corner connector you inserted earlier on the `L 397mm` extrusion, plus a new one on the other side. Do not tighten the connectors yet.
+- Pay attention to the orientation of the corner connectors
 <p align="center">
   <img src="./output/images/LT021.jpg" width="400">
 </p>
 <p align="center">
   <img src="./output/images/orthographic11.jpg" width="200">
 </p>
+
+#### 20. Repeat the previous step on the opposite side with the remaining `L 242mm` extrusion
 <p align="center">
   <img src="./output/images/orthographic12.jpg" width="200">
 </p>
 
+#### 21. Use the `Assembly Jig` to align the `L 242mm` to the `L 397mm` extrusion and tighten the corner connector
 <p align="center">
   <img src="./output/images/LT022.jpg" width="400">
 </p>
 
+#### 22. Using the tape measure, put a pencil mark on the `L 430mm` extrusion at around 20cm from the top of the `L 242mm` extrusion, do this on both sides
 <p align="center">
   <img src="./output/images/LT023.jpg" width="400">
 </p>
 
+#### 23. Use the `Assembly Jig` to align the `L 202mm` to the `L 430mm` extrusion and tighten both corner connectors, do this on both sides
 <p align="center">
   <img src="./output/images/LT024.jpg" width="400">
 </p>
@@ -228,14 +238,15 @@ Lay down all the extrusions by length, this will make assembly way easier
   <img src="./output/images/orthographic14.jpg" width="200">
 </p>
 
+#### 24. Now go back and tighten the remaining corner connector of the `L 430mm` and `L 242mm` extrusions, do this on both sides
 <p align="center">
   <img src="./output/images/LT025.jpg" width="400">
 </p>
-
 <p align="center">
   <img src="./output/images/LT026.jpg" width="400">
 </p>
 
+#### 25. Insert the last extrusion, `L 397mm` (with 2 corner connectors), to the `L 242mm` extrusions. Tighten both corner connectors.
 <p align="center">
   <img src="./output/images/LT027.jpg" width="400">
 </p>
@@ -243,14 +254,18 @@ Lay down all the extrusions by length, this will make assembly way easier
   <img src="./output/images/orthographic15.jpg" width="200">
 </p>
 
+#### 26. Insert the 4 wood screws to the the bottom of the 4 `Adapters`, so that the screw secure the `L 430mm` extrusions. Do not overtighten these screws.
+- Important note: using wood screws on extrusions is a bit unusual. The center hole on the extrusion is meant to be tapped so it can accept a standard bolt, something like an M6 in this case. This would however require some more advanced tooling, like an M6 tap (feel free to go down that path if you fancy), so I decided to stick to a screw that is easy to install. A 5mm (diameter) wood screw fits nicely on my extrusion profile, and its length provides enough grip for the threads. However, the diameter of the extrusion's center hole varies slightly from manufacturer to manufacturer, so I highly recommend a testing the screws before assembly and making an effort to find a screw that fastens securely.
 <p align="center">
   <img src="./output/images/LT028.jpg" width="400">
 </p>
 
+#### 27. Tighten the 4 screws that secure the `Adapters` to the step stool
 <p align="center">
   <img src="./output/images/LT029.jpg" width="400">
 </p>
 
+#### 28. Enjoy your build!
 <p align="center">
   <img src="./output/images/LT030.jpg" width="400">
 </p>
