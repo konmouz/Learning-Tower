@@ -20,7 +20,7 @@ I have included an example online source for every part but based on your locati
 | [Aluminium extrusion - 20x20 x L **242** mm](https://www.framingtech.com/20-x-20-20x203m) | 2 | <img src="./output/images/2020.jpg" width="250"> |
 | [Aluminium extrusion - 20x20 x L **202** mm](https://www.framingtech.com/20-x-20-20x203m) | 2 | <img src="./output/images/2020.jpg" width="250"> |
 | [Inside corner connector 2020](https://www.amazon.com/uxcell-Interior-Connector-Aluminum-Extrusion/dp/B07VP59DY5/ref=psdc_16412271_t2_B071LPFZM2) | 14 | <img src="./output/images/corner-connector.jpg" width="250"> |
-| [countersunk wood screw - 5x60cm (or longer)](https://www.amazon.com/Phillips-Drilling-Stainless-Drywall-Screws/dp/B07M7S6N4V/ref=sr_1_4?crid=2J7ESKXZ3AXOZ&keywords=wood%2Bscrew%2B5x60&qid=1644572210&sprefix=wood%2Bscrew%2B5x6%2Caps%2C168&sr=8-4&th=1) | 4 | <img src="./output/images/screw.jpg" width="250"> |
+| [Countersunk wood screw - 5x60cm (or longer)](https://www.amazon.com/Phillips-Drilling-Stainless-Drywall-Screws/dp/B07M7S6N4V/ref=sr_1_4?crid=2J7ESKXZ3AXOZ&keywords=wood%2Bscrew%2B5x60&qid=1644572210&sprefix=wood%2Bscrew%2B5x6%2Caps%2C168&sr=8-4&th=1) | 4 | <img src="./output/images/screw.jpg" width="250"> |
 
 
 ### 3D printing
@@ -139,12 +139,12 @@ Lay down all the extrusions by length, this will make assembly way easier
 </p>
 
 #### 9. On the other end of the same extrusion, insert 4 corner connector as in the picture below and then insert an `End Cap` to lock that end
-- Pay close attention to the direction and location of each corner connector
+- Pay close attention to the direction and location of each corner connectors
 <p align="center">
   <img src="./output/images/LT005.jpg" width="400">
 </p>
 
-#### 10. Repeat the previous two steps with the other `L 397mm` extrusion, this time insert only 2 corner connector as in the picture below
+#### 10. Repeat the previous two steps with the other `L 397mm` extrusion, this time insert only 2 corner connectors as in the picture below
 <p align="center">
   <img src="./output/images/LT006.jpg" width="400">
 </p>
@@ -254,8 +254,8 @@ Lay down all the extrusions by length, this will make assembly way easier
   <img src="./output/images/orthographic15.jpg" width="200">
 </p>
 
-#### 26. Insert the 4 wood screws to the the bottom of the 4 `Adapters`, so that the screw secure the `L 430mm` extrusions. Do not overtighten these screws.
-- Important note: using wood screws on extrusions is a bit unusual. The center hole on the extrusion is meant to be tapped so it can accept a standard bolt, something like an M6 in this case. This would however require some more advanced tooling, like an M6 tap (feel free to go down that path if you fancy), so I decided to stick to a screw that is easy to install. A 5mm (diameter) wood screw fits nicely on my extrusion profile, and its length provides enough grip for the threads. However, the diameter of the extrusion's center hole varies slightly from manufacturer to manufacturer, so I highly recommend a testing the screws before assembly and making an effort to find a screw that fastens securely.
+#### 26. Insert the 4 wood screws to the bottom of the 4 `Adapters`, so that the screw secures the `L 430mm` extrusions. Do not overtighten these screws.
+- **Important note:** using wood screws on extrusions is a bit unusual. The center hole on the extrusion is meant to be tapped so it can accept a standard bolt, something like an M6 in this case. This would however require some more advanced tooling, like an M6 tap (feel free to go down that path if you fancy), so I decided to stick to a screw that is easy to install. A 5mm (diameter) wood screw fits nicely on my extrusion profile, and its length provides enough grip for the threads. However, the diameter of the extrusion's center hole varies slightly from manufacturer to manufacturer, so I highly recommend testing the screws before assembly and making an effort to find a screw that fastens securely.
 <p align="center">
   <img src="./output/images/LT028.jpg" width="400">
 </p>
