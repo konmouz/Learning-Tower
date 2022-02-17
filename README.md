@@ -278,7 +278,7 @@ Lay down all the extrusions by length, this will make assembly way easier
   <img src="./output/images/LT030.jpg" width="400">
 </p>
 
-# Improvements for future versions
+# Future improvements
 
 - I don't love that the 4 adapters differ slightly in dimensions to match the stool's holes accordingly. I'd prefer one simpler adapter design that fits all 4 corners but this requires some experimentation.
 - The rails of the extrusions occasionally trap food and dirt and it's not super easy to clean. There are some profiles that have one or two sides plain (no rail) and it might be a decent solution.
