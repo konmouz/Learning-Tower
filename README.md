@@ -22,7 +22,7 @@ I have included an example online source for every part but based on your locati
 | Name | Quantity | Photo |
 |-|-|-|
 | [IKEA Bekvaem step stool](https://www.ikea.com/gb/en/p/bekvaem-step-stool-aspen-10225589/) | 1 | <img src="./output/images/Bekvaem.png" width="250"> |
-| [Aluminium extrusion - 20x20 x L **430** mm](https://www.framingtech.com/20-x-20-20x203m) | 4 | <img src="./output/images/2020.jpg" width="250"> |
+| [Aluminium extrusion - 20x20 x L **430** mm](https://www.framingtech.com/20-x-20-20x203m) | 4 | <img src="./output/images/2020.jpg" width="250"> <img src="./output/images/2020-profile.jpg" width="250"> |
 | [Aluminium extrusion - 20x20 x L **397** mm](https://www.framingtech.com/20-x-20-20x203m) | 2 | <img src="./output/images/2020.jpg" width="250"> |
 | [Aluminium extrusion - 20x20 x L **363** mm](https://www.framingtech.com/20-x-20-20x203m) | 1 | <img src="./output/images/2020.jpg" width="250"> |
 | [Aluminium extrusion - 20x20 x L **242** mm](https://www.framingtech.com/20-x-20-20x203m) | 2 | <img src="./output/images/2020.jpg" width="250"> |
@@ -281,5 +281,6 @@ Lay down all the extrusions by length, this will make assembly way easier
 # Future improvements
 
 - I don't love that the 4 adapters differ slightly in dimensions to match the stool's holes accordingly. I'd prefer one simpler adapter design that fits all 4 corners but this requires some experimentation.
+- The adapters have a tight fit with the extrusion's T-slot internal profile. This could potentially vary from profile to profile which would may render the adapter unusable.
 - The rails of the extrusions occasionally trap food and dirt and it's not super easy to clean. There are some profiles that have one or two sides plain (no rail) and it might be a decent solution.
 - Because of the extrusions, it's easy to convert the aluminium structure to something else when it's no longer needed (like a chair or a table or something) but I haven't explored that aspect yet.
