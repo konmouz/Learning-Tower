@@ -4,6 +4,11 @@ Learning tower for kids made of an IKEA step stool, aluminium extrusions and 3d 
 <p align="center">
   <img src="./output/images/model-rotation.gif" width="400">
 </p>
+
+I was looking to buy a learning tower for my little monkey, so he can start playing independently and safely on worktops that are designed for adults. There are many designs online but they are usually either expensive for what they offer or unattractive. I decided to build one on my own and since there is a DIY trend that used IKEA step stool for this matter, I followed that path. Initially, I made an extension for the IKEA step stool made out of oak scrap wood. It turned out super nice but I used a series of advanced tools to achieve a professional result. So then I started thinking about how can I put together a simple bill of material that pretty much anyone could source and assemble without cutting or drilling required. I considered a few options but aluminium extrusions are too sexy to be ignored. I paired it with 3D printing, mainly for the connections between the step stool and the aluminium structure. My goal is to use stool's existing holes and screws and make it easy to remove the aluminium structure when is no longer needed. Arguably, not everyone has a 3D printer but getting access to one is not that difficult and there are many services online these days.
+
+Towards the end, I list some thoughts for a future version. Feel free to add issues on GH for future product improvements or corrections of the current version. 
+
 <p align="center">
   <img src="./output/images/IMG_9128.jpg" width="400">
 </p>
@@ -272,3 +277,9 @@ Lay down all the extrusions by length, this will make assembly way easier
 <p align="center">
   <img src="./output/images/LT030.jpg" width="400">
 </p>
+
+# Improvements for future versions
+
+- I don't love that the 4 adapters differ slightly in dimensions to match the stool's holes accordingly. I'd prefer one simpler adapter design that fits all 4 corners but this requires some experimentation.
+- The rails of the extrusions occasionally trap food and dirt and it's not super easy to clean. There are some profiles that have one or two sides plain (no rail) and it might be a decent solution.
+- Because of the extrusions, it's easy to convert the aluminium structure to something else when it's no longer needed (like a chair or a table or something) but I haven't explored that aspect yet.
