@@ -4,6 +4,9 @@ Learning tower for kids made of an IKEA step stool, aluminium extrusions and 3d 
 <p align="center">
   <img src="./output/images/model-rotation.gif" width="400">
 </p>
+<p align="center">
+  <img src="./output/images/IMG_9128.jpg" width="400">
+</p>
 
 ## Preparation
 
