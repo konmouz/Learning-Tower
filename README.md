@@ -17,7 +17,7 @@ Towards the end, I list some thoughts for a future version. Feel free to add iss
 
 ### Ordering components - BoM
 
-I have included an example online source for every part but based on your location you need to do some research and find relevant suppliers. Aluminium extrusions are widely spread and there are plenty of online shops that ship the extrusions pre-cut at your desired length. There are many ways to connect the extrusions, I chose the corner connectors because they are cheap, discreet, easy to source, easy to install.
+I have included an example online source for every part but based on your location you need to do some research and find relevant suppliers. Aluminium extrusions are widely spread and there are plenty of online shops that ship the extrusions pre-cut at your desired length. There are many ways to connect the extrusions, I chose the corner connectors because they are cheap, discreet, easy to source and easy to install.
 
 | Name | Quantity | Photo |
 |-|-|-|
