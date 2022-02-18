@@ -5,7 +5,7 @@ Learning tower for kids made of an IKEA step stool, aluminium extrusions and 3d 
   <img src="./output/images/model-rotation.gif" width="400">
 </p>
 
-I was looking to buy a learning tower for my little monkey, so he can start playing independently and safely on worktops that are designed for adults. There are many designs online but they are usually either expensive for what they offer or unattractive (for my taste). I decided to build one on my own and since there is a DIY trend that used IKEA step stool for this matter, I followed that path. Initially, I made an extension for the IKEA step stool made out of oak scrap wood. It turned out super nice but I used a series of advanced tools to achieve a professional result. So then I started thinking about how can I put together a simple bill of material that pretty much anyone could source and assemble without cutting or drilling required. I considered a few options but aluminium extrusions are too sexy to be ignored. I paired it with 3D printing, mainly for the connections between the step stool and the aluminium structure. My goal is to use stool's existing holes and screws and make it easy to remove the aluminium structure when is no longer needed. Arguably, not everyone has a 3D printer but getting access to one is not that difficult and there are many services online these days.
+I was looking to buy a learning tower for my little monkey, so he can start playing independently and safely on worktops that are designed for adults. There are many designs available online but they are usually either expensive for what they offer or unattractive (for my taste). I decided to build one on my own and since there is a DIY trend that uses an IKEA step stool for this matter, I followed that path. Initially, I made an extension for the IKEA step stool made out of oak scrap wood. It turned out super nice but I used a series of advanced tools to achieve a professional result. Then, I started thinking how I could put together a simple bill of materials that pretty much anyone could source and assemble without any required cutting or drilling. I considered a few options but aluminium extrusions are too sexy to be ignored. I paired it with 3D printing, mainly for the connections between the step stool and the aluminium structure. My goal is to use the stool's existing holes and screws and make it easy to remove the aluminium structure when it is no longer needed. Arguably, not everyone has a 3D printer but getting access to one is not that difficult and there are many online services available these days.
 
 <p align="center">
   <img src="./output/images/IMG_9128.jpg" width="400">
@@ -17,7 +17,7 @@ Towards the end, I list some thoughts for a future version. Feel free to add iss
 
 ### Ordering components - BoM
 
-I have included an example online source for every part but based on your location you need to do some research and find relevant suppliers. Aluminium extrusions are widely spread and there are plenty of online shops that ship the extrusions pre-cut at your desired length. There are many ways to connect the extrusions, I chose the corner connectors because they are cheap, discreet, easy to source and easy to install.
+I have included an example online source for every part but you might need to do some research and find a relevant suppliers based on your location. Aluminium extrusions are widely spread and there are plenty of online shops that ship the extrusions pre-cut at your desired length. There are many ways to connect the extrusions, I chose the corner connectors because they are cheap, discreet, easy to source and easy to install.
 
 | Name | Quantity | Photo |
 |-|-|-|
@@ -58,8 +58,8 @@ Notes
 - It's a good idea to print a sample Adapter and test how strong it is. The Adapters support the whole structure so not having reliable parts defeats the purpose of the project.
 
 
-### Smoothing edges
-Aluminium extrusion's edges are usually rough and potentially dangerous so I strongly recommend smoothing all edges with a file or sandpaper.
+### Smoothing the edges
+Aluminium extrusions' edges are usually rough and potentially dangerous so I strongly recommend smoothing all the edges with a file or sandpaper.
 
 <p align="center">
   <img src="./output/images/LT001.jpg" width="400">
@@ -281,6 +281,6 @@ Lay down all the extrusions by length, this will make assembly way easier
 # Future improvements
 
 - I don't love that the 4 adapters differ slightly in dimensions to match the stool's holes accordingly. I'd prefer one simpler adapter design that fits all 4 corners but this requires some experimentation.
-- The adapters have a tight fit with the extrusion's T-slot internal profile. This could potentially vary from profile to profile which would may render the adapter unusable.
-- The rails of the extrusions occasionally trap food and dirt and it's not super easy to clean. There are some profiles that have one or two sides plain (no rail) and it might be a decent solution.
+- The adapters have a tight fit with the extrusion's T-slot internal profile. This could potentially vary from profile to profile which could render the adapter unusable.
+- The rails of the extrusions occasionally trap food and dirt and they are not super easy to clean. There are some profiles that have one or two sides plain (no rail) which might be a decent solution.
 - Because of the extrusions, it's easy to convert the aluminium structure to something else when it's no longer needed (like a chair or a table or something) but I haven't explored that aspect yet.
